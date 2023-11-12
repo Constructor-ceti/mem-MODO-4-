@@ -1,0 +1,15 @@
+body{
+  background-color:lightblue;
+}
+.img{
+  display:flex;
+  justify-content:center;
+  height:400px;
+}
+img{
+  border:dashed 10px;
+}
+h1{
+  border:solid 3px red;
+  text-align:center;
+}
